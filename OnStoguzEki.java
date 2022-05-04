@@ -11,7 +11,6 @@ public class OnStoguzEki {
             if (num1 == numbers[i] || num2 == numbers[i]) {
                 return true;
             } else {
-                //return false;
             }
         }
         return false;
